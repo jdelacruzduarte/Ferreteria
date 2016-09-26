@@ -35,7 +35,9 @@
         <td class="text-right">
             <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
         </td>
-        <td>&nbsp;</td>
+        <td>
+            <asp:TextBox ID="TextBox1" runat="server" Width="100px"></asp:TextBox>
+        </td>
         <td>&nbsp;</td>
     </tr>
     <tr>
