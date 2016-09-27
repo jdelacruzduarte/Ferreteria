@@ -33,7 +33,7 @@
     <tr>
         <td>&nbsp;</td>
         <td class="text-right">
-            <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="Label3" runat="server" Text="Precio"></asp:Label>
         </td>
         <td>
             <asp:TextBox ID="TextBox1" runat="server" Width="100px"></asp:TextBox>
@@ -43,7 +43,7 @@
     <tr>
         <td>&nbsp;</td>
         <td class="text-right">
-            <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="Label4" runat="server" Text="Caracteristica"></asp:Label>
         </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -51,7 +51,7 @@
     <tr>
         <td style="height: 22px"></td>
         <td class="text-right" style="height: 22px">
-            <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="Label5" runat="server" Text="Existencia"></asp:Label>
         </td>
         <td style="height: 22px"></td>
         <td style="height: 22px"></td>
